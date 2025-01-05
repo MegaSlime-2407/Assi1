@@ -53,7 +53,7 @@ public class Main {
             System.out.println(line);
 }
         scanner1.close();
-        System.out.println(school.toString());
+        System.out.println(school.toString()); // test
     }
 
 }
