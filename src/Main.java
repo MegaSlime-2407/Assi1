@@ -52,8 +52,8 @@ public class Main {
             school.addMember(person);
             System.out.println(line);
 }
-        scanner1.close(); // alinur is good
-        System.out.println(school.toString()); // askar agay pls gimme a chance
-    } // idea projects
+        scanner1.close();
+        System.out.println(school.toString());
+    }
 
 }
